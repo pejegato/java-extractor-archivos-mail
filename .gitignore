@@ -1,0 +1,20 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+coverage-error.log
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+/.idea
+/.idea/workspace.xml
+/extractor-archivos.iml
